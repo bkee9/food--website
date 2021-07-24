@@ -1,0 +1,13 @@
+.home{
+    background-color:  #c9ecb5; 
+}
+.gallery ul{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 70 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    
+}
