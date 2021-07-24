@@ -28,9 +28,12 @@
 .together{
     color: #FFD77C;
 }
-. Burger{
+. Burger {
     color: black;
 }
-.Name{
+.Contact {
     color: black;
+}
+.calllog {
+    color: chartreuse;
 }
