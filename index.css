@@ -37,3 +37,9 @@
 .calllog {
     color: chartreuse;
 }
+.send {
+    background-color: chartreuse;
+    border-radius: 35px 35px 35px 35px;
+    height: 8vh;
+    border: transparent;
+}
