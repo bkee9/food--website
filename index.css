@@ -9,5 +9,16 @@
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    
+}
+.street {
+    color:#649549
+}
+.cheese {
+    color: #FFD77C
+}
+.order {
+ background-color: #649549;
+ border-radius: 30px 30px 30px 30px;
+ border:transparent;
+ height: 6vh;
 }
