@@ -28,6 +28,18 @@
 .together{
     color: #FFD77C;
 }
+.Hot {
+    color:black ;
+}
+.eateries {
+    color: green;
+}
+.Hot Deals {
+    background-color:green;
+}
+.junks {
+    color: green;
+}
 . Burger {
     color: black;
 }
@@ -40,6 +52,12 @@
 .send {
     background-color: chartreuse;
     border-radius: 35px 35px 35px 35px;
-    height: 8vh;
+    height: 4vh;
     border: transparent;
+}
+.email {
+    border-radius: 60px 60px 60px 60px;
+}
+.Contact{
+    background-color:#FFD77C;
 }
