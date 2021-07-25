@@ -16,6 +16,14 @@
 .cheese {
     color: #FFD77C
 }
+.content {
+    color: chartreuse;
+}
+.combo {
+    display: flex;
+    justify-content: center;
+}
+
 .order {
  background-color: lawngreen;
  border-radius: 30px 30px 30px 30px;
@@ -28,8 +36,6 @@
 .together{
     color: #FFD77C;
 }
-
-
 .Hot {
     color:black ;
 }
@@ -61,6 +67,14 @@
     background-color: #C9ECB5;
     display: flex;
     justify-content:left;
+}
+.number {
+    display:flex;
+    justify-content: center;
+}
+.handles {
+    display:flex;
+    justify-content: center;
 }
 .Contact{
     background-color:#FFD77C;
