@@ -45,7 +45,16 @@ h4{
     display: flex;
     justify-content: space-evenly;
 }
-
+.combo>div,.yummies>div{
+    height: 200px;
+    width: 330px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: inherit;
+    background-color: white;
+    margin-right: 15px;
+    border-radius: 8px 8px 6px 0;
+}
 .order {
  background-color: lawngreen;
  border-radius: 30px 30px 30px 30px;
