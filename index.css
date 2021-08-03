@@ -22,12 +22,13 @@ h4{
 }
 .together{
     display: flex;
-    float: right;
+    
 }
 .exploremenu{
     background-color: gray;
     padding: 25px 50px 25px 50px;
     height: 420px;
+    text-align: center;
 }
 .combo,.yummies{
     display: flex;
@@ -63,18 +64,46 @@ h4{
 }
 .Hot {
     color:black ;
+    font-size: 20px;
 }
 .eateries {
     color: green;
+    font-size: 24px;
 }
 .hotdeals {
     background-color: #C9ECB5;
+    height: 500px;
+}
+.hotdeals img{
+    float:left;
+    
+    margin-left: 100px;
+}
+.special{
+margin-top:80px ;
+}
+.combopack{
+font-size: 40px;
+    color: green;
+
+}
+.burgerpizz{
+    font-size:36px ;
+    margin-bottom: 0px;
+    margin-top: 5px;
+
+}
+.align{
+text-align: center;
+margin-right: 600px;
+
 }
 .junks {
     color: green
 }
 .Contact {
     color: black;
+    text-align: center;
 }
 .calllog {
     color: chartreuse;
@@ -103,4 +132,23 @@ h4{
 }
 .Contact{
     background-color:#FFD77C;
+}
+.button{
+    background-color: chartreuse;
+    margin-left: 525px;
+    margin-right: 300px;
+    border-radius: 35px;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    width: 70px;
+    height: 35px;
+}
+.dine{
+    display: flex;
+    
+}
+.together p{
+    text-align: center;
+    margin-top: 150px;
 }
