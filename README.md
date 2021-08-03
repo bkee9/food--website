@@ -13,3 +13,6 @@ or
 email us on Nancymwende860@gmail.com.
 
 LICENSE.
+This project is under the MIT licence.
+
+
