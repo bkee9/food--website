@@ -1,9 +1,6 @@
 .streetfood{
     background-color: grey; 
 }
-.dine{
-    background-color: white;
-}
 .gallery ul{
     width: 100%;
     padding: 10px 15px;
@@ -17,15 +14,36 @@
 .street {
     color:#649549
 }
-.cheese {
+h4{
     color: #FFD77C
 }
 .content {
     color: chartreuse;
 }
+.together{
+    display: flex;
+    float: right;
+}
+.exploremenu{
+    background-color: gray;
+    padding: 25px 50px 25px 50px;
+    height: 420px;
+}
+.combo,.yummies{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 30pt;
+    padding-left: 40pt;
+    padding-top: 80pt;
+    padding-bottom: 100pt;
+}
+.yummies {
+    display: flex;
+    justify-content:space-evenly;
+}
 .combo {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .order {
@@ -34,20 +52,14 @@
  border:transparent;
  height: 6vh;
 }
-.Eat {
-    color: #FFD77C;
-}
-.together{
-    color: #FFD77C;
-}
 .Hot {
     color:black ;
 }
 .eateries {
     color: green;
 }
-.Hot Deals {
-    background-color:green;
+.hotdeals {
+    background-color: #C9ECB5;
 }
 .junks {
     color: green
